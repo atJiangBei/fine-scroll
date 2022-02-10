@@ -1,0 +1,12 @@
+docs
+node_modules
+src
+components
+build
+coverage
+.prettierrc
+babel.config.js
+postcss.config.js
+vue.config.js
+jest.config.js
+deploy.sh
